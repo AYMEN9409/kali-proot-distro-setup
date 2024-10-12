@@ -70,4 +70,3 @@ EOF
 # Script completion message
 echo -e "${GREEN}[*] Script completed successfully!${RESET}"
 echo -e "${CYAN}Created by Aymen Gharsalli, Luxtrust${RESET}"
-
